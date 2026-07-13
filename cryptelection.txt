@@ -1,0 +1,17 @@
+cryptelection
+
+free societies require elections whose results do not depend on trust in a single authority
+
+every eligible voter receives one cryptographic voting credential and may cast exactly one encrypted vote
+
+each vote is signed verified and recorded on a public distributed ledger no recorded vote can be modified removed or secretly added
+
+the ledger reveals that a vote exists not who cast it nor its content
+
+after voting each participant receives a transaction identifier allowing independent verification that their vote was included
+
+when voting ends encrypted ballots are collectively decrypted or tallied through public cryptographic protocols no individual authority can alter the outcome
+
+any person may independently verify the integrity of the election from the public ledger and the published proofs
+
+the legitimacy of an election should arise from mathematics open verification and distributed consensus rather than institutional trust
